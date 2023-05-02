@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "malak",
+        "lname": "anwar",
+        "age": 23,
+        "city": "guelma"
+    },
+    {
+        "id": 3,
+        "fname": "mohamed",
+        "lname": "ahmed",
+        "age": 35,
+        "city": "liban"
+    },
+    {
+        "id": 4,
+        "fname": "aya",
+        "lname": "mohamed",
+        "age": 40,
+        "city": "jordan"
+    },
+    {
+        "id": 6,
+        "fname": "marwan",
+        "lname": "moaz",
+        "age": 47,
+        "city": "tunis"
+    },
+    {
+        "id": 8,
+        "fname": "tawfik",
+        "lname": "mohamed",
+        "age": 17,
+        "city": "istanbul"
+    },
+    {
+        "id": 10,
+        "fname": "islam",
+        "lname": "mohamed",
+        "age": 27,
+        "city": "mansoura"
+    }
+]
